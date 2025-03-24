@@ -1,0 +1,11 @@
+Weather,Temperature,Humidity,Windy,PlayGolf
+Sunny,Hot,High,Yes,No
+Rainy,Mild,High,No,No
+Cloudy,Cool,Normal,Yes,Yes
+Sunny,Hot,High,No,Yes
+Rainy,Mild,Normal,Yes,Yes
+Cloudy,Cool,Normal,No,Yes
+Sunny,Hot,High,Yes,No
+Rainy,Mild,Normal,No,Yes
+Cloudy,Cool,Normal,Yes,Yes
+Sunny,Hot,High,No,No
